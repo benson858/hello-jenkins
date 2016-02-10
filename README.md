@@ -6,4 +6,3 @@ Note: To get Jenkins demo to operational
 2. On Jenkins machine install npm      apt-get install npm 
 3. Create link    ln -s /usr/bin/nodejs /usr/bin/node    Refer to link:  http://stackoverflow.com/questions/26320901/cannot-install-nodejs-usr-bin-env-node-no-such-file-or-directory
  
-
